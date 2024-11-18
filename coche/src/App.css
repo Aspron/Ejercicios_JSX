@@ -1,0 +1,9 @@
+.StyledTextComponent {
+  font-family: "Inter", sans-serif;
+  padding-left: .5rem;
+  background-color: #369;
+  color: #fff;
+  margin-bottom: 0.5rem; 
+  border-radius: 4px; 
+  padding: 0.5rem; 
+}

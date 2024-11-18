@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "coche",
+			"path": "../../coche"
+		},
+		{
+			"name": "saludo-despedida",
+			"path": ".."
+		},
+		{
+			"name": "Ejercicios_JSX",
+			"path": "../../../../../Documents/GitHub/Ejercicios_JSX"
+		}
+	],
+	"settings": {}
+}
